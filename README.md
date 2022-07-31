@@ -9,7 +9,7 @@
 
   <h2 align="center">Neomorphism Social Media Icons</h2>
 
-  In this project, I have created Neomorphism Social Media Icons, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created Neomorphism Social Media Icons, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/neomorphism-social-media-icons/"><strong>➥ Live Demo</strong></a>
 
